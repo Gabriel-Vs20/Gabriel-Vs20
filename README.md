@@ -77,6 +77,8 @@
 <br/>
 <br/>
 
+---
+
 ### 📊 GitHub Stats
 
 <p>
