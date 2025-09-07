@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=435&lines=Data+Analyst" alt="Typing SVG" /></a>
-<p>Me chamo Gabriel Valenga Silva, tenho 21 anos e sou natural de Curitiba. Atualmente, estou cursando Ciência da Computação na Universidade Positivo. Estou aprimorando minhas habilidades em banco de dados Oracle, Python e PHP. Convido você a conhecer alguns projetos que já publiquei aqui no GitHub!</p> 
+<p>Me chamo Gabriel Valenga Silva, tenho 21 anos e sou natural de Curitiba. Atualmente, estou cursando Ciência da Computação na Universidade Positivo. Estou aprimorando minhas habilidades em banco de dados Oracle, Python, C# e PHP. Convido você a conhecer alguns projetos que já publiquei aqui no GitHub!</p> 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:gabrielvalengasilva412@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/gabriel-valenga-silva-tds/)
